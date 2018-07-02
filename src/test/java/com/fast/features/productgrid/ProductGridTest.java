@@ -1,6 +1,5 @@
 package com.fast.features.productgrid;
 
-import com.fast.steps.serenity.ProductEssentialSteps;
 import com.fast.steps.serenity.ProductGridSteps;
 import net.serenitybdd.junit.runners.SerenityRunner;
 import net.thucydides.core.annotations.Managed;
